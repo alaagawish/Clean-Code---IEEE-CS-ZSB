@@ -1,0 +1,21 @@
+Clean code
+
+--code is the language in which we ultimately express the requirements.
+
+--"Bad code tempts the mess to grow ".
+
+--productivity of the code is inversely proportional to mess.
+
+--spending time keeping your code clean is not just cost effective, it’s a matter of professional survival.
+
+--writing a bad code means you are unprofessional.
+
+--clean code is pleasing to read,it’s left by someone who cares deeply about the craft.
+
+--Clean code should be elegant ,efficient ,simple ,direct and small better than large.
+
+--It runs all the tests,has  no duplication ,includes meaningful names and minimizes the number of entities.
+
+--It has unit and acceptance tests. It has meaningful names and provides a clear and minimal API
+
+--we can  change one variable name for the better, break up one function that’s a little too large, eliminate one small bit of duplication, clean up one composite if statement.
