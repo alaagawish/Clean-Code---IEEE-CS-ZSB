@@ -1,0 +1,21 @@
+Meaningful Names 
+
+-- Choosing good names takes time but saves more than it takes. 
+
+--meaningful names tell you why it exists, what it does, how it is used, and it doesn’t  require a comment.
+
+--Choosing names that reveal intent make it much easier to understand and change code.
+
+--Names of the classes, variables, and methods must be meaningful and clearly indicate what a method does or what an attribute is.
+
+
+--avoid words whose entrenched meanings vary from our intended meaning ”Say what you mean. Mean what you say.”
+
+
+--A class name should not be a verb.
+
+
+--Avoid acronyms and avoid confusing names, which may bring anyone who reads the code to the wrong conclusions.
+
+--use (CS) terms, algorithm names, pattern names, math terms, and so forth
+
