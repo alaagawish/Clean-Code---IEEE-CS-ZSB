@@ -1,0 +1,34 @@
+Functions 
+
+      --  It’s better to be smaller , It should be easy to read and understand
+  
+      --  It should do one thing,and do it well,and only one thing.
+  
+      --  Use functions to bury the switch statement and if/else chains.
+  
+      --  Use Descriptive Names that describe what the function does. 
+  
+      --  The smaller and more focused a function is, the easier it is to choose a descriptive name.
+  
+      --  A long descriptive name is better than a short enigmatic name or  a long descriptive comment. 
+  
+      --  Choosing descriptive names will clarify the design of the module in your mind and help you to improve it
+  
+      --  A function with two arguments is harder to understand than a function with one argument.
+  
+      --  Avoid using 3 or more than 3 in function arguments.
+  
+      --  Arguments are even harder from a testing point of view.
+  
+      --  Flag arguments are ugly “ It does one thing if the flag is true and another if the flag is false! “.
+  
+      --  Functions should either “do something and return something” or answer something, but not both.
+  
+      --  Avoid duplication,Duplication may be the root of all evil in software.
+  
+      --  Dijkstra said that every function, and every block within a function,
+          should have one entry and one exit. Following these rules means that there should only be one return statement in a function,
+          no break or continue statements in a loop, and never, ever, any goto statements.
+  
+      --  “goto” only makes sense in large functions, so it should be avoided.
+
