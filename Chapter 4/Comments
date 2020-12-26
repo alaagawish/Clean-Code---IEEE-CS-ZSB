@@ -1,0 +1,37 @@
+Comments
+
+--There are 2  types of comments :
+-a well-placed comment is so helpful.
+-an old crufty comment that propagates lies and misinformation.
+
+--If our programming languages were expressive enough,we would not need comments very much “perhaps not at all”. 
+
+--Inaccurate comments are far worse than no comments at all.
+
+-- Rather than spend your time writing the comments that explain the mess you’ve made in basd code , spend it cleaning that mess.
+
+-- the only truly good comment is the comment you found a way not to write.
+
+--Don’t comment code that will not be used, remove, it just pollutes the code and leaves no doubt in anyone reading.
+
+--Do not write comments with redundant, useless, or false information.
+
+-- before writing comments, take care that there is no better way, and then take even more care that they are accurate.
+
+--TODOs are jobs that the programmer thinks should be done, but for some reason can’t do at the moment. It might be a reminder to delete a deprecated feature or a plea for someone else to look at a probleM
+
+--If you decide to write a comment, then spend the time necessary to make sure it is the best comment you can write. 
+
+--Any comment that forces you to look in another module for the meaning of that comment has failed to communicate to you and is not worth the bits it consumes.  
+
+--Comments that are nothing but noise. They restate the obvious and provide no new information,They are so noisy that we learn to ignore them.
+
+--If you must write a comment, then make sure it describes the code it appears near.
+
+--The connection between a comment and the code it describes should be obvious. If you are going to the trouble to write a comment, then at least you’d like the reader to be able to look at the comment and the code and understand what the comment is talking about. 
+
+--Short functions don’t need much description. A well-chosen name for a small function that does one thing is usually better than a comment header. 
+
+--Comments can be used to express the importance of certain points in the code.
+
+--Create method names and informative variables instead of explaining the code with comments.
