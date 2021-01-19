@@ -1,0 +1,13 @@
+Formatting
+   -- Detail should increase as we move downward, until at the end we find the lowest level functions and details in the source file. 
+   --Most of the articles in a newspaper should be  very small or  a bit larger.
+   --Articles  contain as much text as a page can hold,makes the newspaper usable,then we simply would not read it.
+   --Use blank lines  to separate thoughts from each other.
+   --The important thing is for the instance variables to be declared in one well-known place. Everybody should know where to go to see the declarations. 
+   --If one function calls another, they should be vertically close, and the caller should be above the callee
+   --A messy code is hard to read.
+   --Smaller classes are easier to understand.
+   --We use horizontal white space to associate things that are strongly related and disassociate things that are more weakly related. 
+   --Programmers rely heavily on this indentation scheme. They visually line up lines on the left to see what scope they appear in.
+   --Try to avoid the body of a while or for statements that are dummy, or body is properly indented and surrounded by braces.
+
